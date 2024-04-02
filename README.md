@@ -23,7 +23,7 @@ A simple Windows' Character Map alternative, useful to quickly search unicode ch
 
 ### Donwload
 #### Run the executable
-- Go to the Release page and download the latest version.
+- Go to the [Release page](https://github.com/SomeUnusualGames/Pocket-CharMap/releases) and download the latest version.
 - Extract the executable anywhere in your computer and double click it.
 - Pressing `Win+,` should open the GUI. You can also verify if the script is running by looking for this icon in the taskbar:
 
