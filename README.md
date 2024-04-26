@@ -7,12 +7,7 @@ A simple Windows' Character Map alternative, useful to quickly search unicode ch
 
 ### Demo
 
-<details>
-<summary>Click here to open the demo gif</summary>
-<p align="center">
-  <img width="677" height="480" src="assets/how_it_works.gif">
-</p>
-</details>
+<img width="677" height="480" src="assets/how_it_works.gif">
 
 ### How to use
 - Press `Win+,` anytime to open up the GUI.
